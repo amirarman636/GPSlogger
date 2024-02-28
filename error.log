@@ -1,0 +1,232 @@
+2024/02/28 07:22:33 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 07:22:33 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 07:22:33 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 07:22:33 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 07:22:33 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 07:22:33 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 07:35:26 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 07:35:26 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 07:35:26 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 07:35:26 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 07:35:26 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 07:35:26 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 09:47:33 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 09:47:33 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 09:47:33 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 09:47:33 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 09:47:33 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 09:47:33 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 09:48:45 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 09:48:45 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 09:48:45 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 09:48:45 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 09:48:45 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 09:48:45 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 09:50:27 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 09:50:27 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 09:50:27 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 09:50:27 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 09:50:27 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 09:50:27 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 10:53:57 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 10:53:57 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 10:53:57 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 10:53:57 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 10:53:57 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 10:53:57 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 10:55:35 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 10:55:35 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 10:55:35 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 10:55:35 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 10:55:35 [Warning] v2ray.com/core/transport/internet/tls: ignoring invalid X509 key pair > tls: failed to parse private key
+2024/02/28 10:55:35 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 11:03:04 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 11:03:04 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 11:03:04 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 11:03:04 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 11:03:04 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 11:31:35 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 11:31:35 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 11:31:35 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 11:31:35 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 11:31:35 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 11:42:17 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 11:42:17 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 11:42:17 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 11:42:17 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 11:42:17 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 11:43:21 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 11:43:21 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 11:43:21 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 11:43:21 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 11:43:21 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 11:44:43 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 4.2.2.4:53
+2024/02/28 11:44:43 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 11:44:43 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 11:44:43 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 11:44:43 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 12:17:14 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 4.2.2.4:53
+2024/02/28 12:17:14 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 12:17:14 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 12:17:14 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 12:17:14 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 12:17:27 [Info] [856619114] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.4.218:39238 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:17:31 [Info] [2855514726] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.4.218:39240 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:17:38 [Info] [149184487] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.4.218:39242 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:17:42 [Info] [2555684550] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.4.218:39244 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:17:49 [Info] [1630629908] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.4.218:39276 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:17:50 [Info] [3061455423] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/encoding: failed to read request header > EOF
+2024/02/28 12:17:50 [Info] [949867535] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/encoding: failed to read request header > EOF
+2024/02/28 12:17:53 [Info] [3577920903] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.4.218:39282 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:18:31 [Info] [3332135970] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/encoding: failed to read request header > EOF
+2024/02/28 12:26:16 [Info] [1223683827] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.36.22:39354 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:26:20 [Info] [1562257360] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 89.199.36.22:39356 > v2ray.com/core/proxy/vmess/encoding: failed to read request header > remote error: tls: bad certificate
+2024/02/28 12:32:14 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 12:32:14 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 12:32:14 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 12:32:14 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 12:32:14 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 12:33:48 [Info] [1145562533] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:33:48 [Info] v2ray.com/core/transport/internet/udp: establishing new connection for udp:1.1.1.1:53
+2024/02/28 12:33:48 [Info] v2ray.com/core/app/dispatcher: default route for udp:1.1.1.1:53
+2024/02/28 12:33:48 [Info] v2ray.com/core/proxy/freedom: opening connection to udp:1.1.1.1:53
+2024/02/28 12:33:48 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeAAAA -> [[2a00:1450:4001:831::2004]] 6.5537ms
+2024/02/28 12:33:48 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeA -> [142.250.184.228] 6.5537ms
+2024/02/28 12:33:48 [Info] [1145562533] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:33:48 [Info] [1145562533] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:33:48 [Info] [1145562533] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:33:48 [Info] [1145562533] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:33:48 [Info] [1145562533] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:33:52 [Info] [3034338613] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:33:52 [Info] [3034338613] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:33:52 [Info] [3034338613] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:33:52 [Info] [3034338613] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:33:53 [Info] [3034338613] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:33:53 [Info] [3034338613] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:33:55 [Info] [3726560672] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:33:55 [Info] [3726560672] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:33:55 [Info] [3726560672] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:33:55 [Info] [3726560672] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:33:56 [Info] [3726560672] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:33:56 [Info] [3726560672] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:33:56 [Info] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:33:56 [Info] v2ray.com/core/transport/internet/udp: failed to handle UDP input > io: read/write on closed pipe
+2024/02/28 12:33:57 [Info] [1934442144] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:33:57 [Info] [1934442144] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:33:57 [Info] [1934442144] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:33:57 [Info] [1934442144] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:33:58 [Info] [1934442144] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:33:58 [Info] [1934442144] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:33:59 [Info] [2762404447] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:33:59 [Info] [2762404447] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:33:59 [Info] [2762404447] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:33:59 [Info] [2762404447] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:34:00 [Info] [2762404447] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:34:00 [Info] [2762404447] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:34:51 [Info] [1805802558] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:34:51 [Info] [1805802558] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:34:51 [Info] [1805802558] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:34:51 [Info] [1805802558] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:34:51 [Info] [1805802558] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:34:51 [Info] [1805802558] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:38:20 [Info] [1663620463] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:38:20 [Info] v2ray.com/core/transport/internet/udp: establishing new connection for udp:1.1.1.1:53
+2024/02/28 12:38:20 [Info] v2ray.com/core/app/dispatcher: default route for udp:1.1.1.1:53
+2024/02/28 12:38:20 [Info] v2ray.com/core/proxy/freedom: opening connection to udp:1.1.1.1:53
+2024/02/28 12:38:20 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeA -> [142.250.186.164] 17.1174ms
+2024/02/28 12:38:20 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeAAAA -> [[2a00:1450:4001:82b::2004]] 17.1174ms
+2024/02/28 12:38:20 [Info] [1663620463] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:38:20 [Info] [1663620463] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:38:20 [Info] [1663620463] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:38:21 [Info] [1663620463] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:38:21 [Info] [1663620463] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:38:23 [Info] [1488411868] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:38:23 [Info] [1488411868] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:38:23 [Info] [1488411868] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:38:23 [Info] [1488411868] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:38:23 [Info] [1488411868] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:38:23 [Info] [1488411868] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:38:25 [Info] [1357353816] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:38:25 [Info] [1357353816] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:38:25 [Info] [1357353816] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:38:25 [Info] [1357353816] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:38:25 [Info] [1357353816] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:38:25 [Info] [1357353816] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:38:27 [Info] [2519994755] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:38:27 [Info] [2519994755] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:38:27 [Info] [2519994755] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:38:27 [Info] [2519994755] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:38:27 [Info] [2519994755] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:38:27 [Info] [2519994755] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:38:28 [Info] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:38:28 [Info] v2ray.com/core/transport/internet/udp: failed to handle UDP input > io: read/write on closed pipe
+2024/02/28 12:43:27 [Info] [2750445692] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:43:27 [Info] v2ray.com/core/transport/internet/udp: establishing new connection for udp:1.1.1.1:53
+2024/02/28 12:43:27 [Info] v2ray.com/core/app/dispatcher: default route for udp:1.1.1.1:53
+2024/02/28 12:43:27 [Info] v2ray.com/core/proxy/freedom: opening connection to udp:1.1.1.1:53
+2024/02/28 12:43:27 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeA -> [142.250.186.100] 9.7551ms
+2024/02/28 12:43:27 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeAAAA -> [[2a00:1450:4001:811::2004]] 9.7551ms
+2024/02/28 12:43:27 [Info] [2750445692] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:43:27 [Info] [2750445692] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:43:27 [Info] [2750445692] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:43:27 [Info] [2750445692] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:43:27 [Info] [2750445692] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:43:35 [Info] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:43:35 [Info] v2ray.com/core/transport/internet/udp: failed to handle UDP input > io: read/write on closed pipe
+2024/02/28 12:46:27 [Info] [2441976257] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:46:27 [Info] [2441976257] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:46:27 [Info] [2441976257] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:46:27 [Info] [2441976257] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:46:27 [Info] [2441976257] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:46:27 [Info] [2441976257] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:49:58 [Info] [1379398837] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 45.88.186.225:58570 > v2ray.com/core/proxy/vmess/encoding: failed to drain connection DrainSize = 1851 32 5 > v2ray.com/core/proxy/vmess/encoding: invalid user > v2ray.com/core/proxy/vmess: Not Found
+2024/02/28 12:51:50 [Info] [1660057841] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: invalid request from 66.240.205.34:38574 > v2ray.com/core/proxy/vmess/encoding: failed to drain connection DrainSize = 1851 32 8 > v2ray.com/core/proxy/vmess/encoding: invalid user > v2ray.com/core/proxy/vmess: Not Found
+2024/02/28 12:54:38 [Info] [400661612] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:54:38 [Info] v2ray.com/core/transport/internet/udp: establishing new connection for udp:1.1.1.1:53
+2024/02/28 12:54:38 [Info] v2ray.com/core/app/dispatcher: default route for udp:1.1.1.1:53
+2024/02/28 12:54:38 [Info] v2ray.com/core/proxy/freedom: opening connection to udp:1.1.1.1:53
+2024/02/28 12:54:38 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeAAAA -> [[2a00:1450:4001:802::2004]] 11.0819ms
+2024/02/28 12:54:38 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeA -> [216.58.212.164] 16.7024ms
+2024/02/28 12:54:38 [Info] [400661612] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:54:38 [Info] [400661612] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:54:38 [Info] [400661612] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:54:38 [Info] [400661612] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:54:38 [Info] [400661612] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:54:41 [Info] [1837029274] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:54:41 [Info] [1837029274] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:54:41 [Info] [1837029274] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:54:41 [Info] [1837029274] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:54:41 [Info] [1837029274] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:54:41 [Info] [1837029274] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:54:43 [Info] [2889594983] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:54:43 [Info] [2889594983] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:54:43 [Info] [2889594983] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:54:43 [Info] [2889594983] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:54:43 [Info] [2889594983] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:54:43 [Info] [2889594983] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:54:45 [Info] [3126398652] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 12:54:45 [Info] [3126398652] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 12:54:45 [Info] [3126398652] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 12:54:45 [Info] [3126398652] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 12:54:46 [Info] [3126398652] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:54:46 [Info] [3126398652] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 12:54:46 [Info] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 12:54:46 [Info] v2ray.com/core/transport/internet/udp: failed to handle UDP input > io: read/write on closed pipe
+2024/02/28 13:02:22 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 1.1.1.1:53
+2024/02/28 13:02:22 [Info] v2ray.com/core/app/dns: DNS: created udp client inited for 8.8.8.8:53
+2024/02/28 13:02:22 [Info] v2ray.com/core/app/dns: DNS: created localhost client
+2024/02/28 13:02:22 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:443
+2024/02/28 13:02:22 [Warning] v2ray.com/core: V2Ray 4.31.0 started
+2024/02/28 13:02:25 [Info] [2578416529] v2ray.com/core/proxy/vmess/inbound: received request for tcp:www.google.com:443
+2024/02/28 13:02:25 [Info] v2ray.com/core/transport/internet/udp: establishing new connection for udp:1.1.1.1:53
+2024/02/28 13:02:25 [Info] v2ray.com/core/app/dispatcher: default route for udp:1.1.1.1:53
+2024/02/28 13:02:25 [Info] v2ray.com/core/proxy/freedom: opening connection to udp:1.1.1.1:53
+2024/02/28 13:02:25 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeA -> [216.58.206.36] 4.1204ms
+2024/02/28 13:02:25 [Info] v2ray.com/core/app/dns: UDP:1.1.1.1:53 got answer: www.google.com. TypeAAAA -> [[2a00:1450:4001:81c::2004]] 4.1204ms
+2024/02/28 13:02:25 [Info] [2578416529] v2ray.com/core/app/dispatcher: default route for tcp:www.google.com:443
+2024/02/28 13:02:25 [Info] [2578416529] v2ray.com/core/proxy/freedom: opening connection to tcp:www.google.com:443
+2024/02/28 13:02:25 [Info] [2578416529] v2ray.com/core/transport/internet/tcp: dialing TCP to tcp:www.google.com:443
+2024/02/28 13:02:26 [Info] [2578416529] v2ray.com/core/app/proxyman/inbound: connection ends > v2ray.com/core/proxy/vmess/inbound: connection ends > context canceled
+2024/02/28 13:02:26 [Info] [2578416529] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 13:02:33 [Info] v2ray.com/core/app/proxyman/outbound: failed to process outbound traffic > v2ray.com/core/proxy/freedom: connection ends > context canceled
+2024/02/28 13:02:33 [Info] v2ray.com/core/transport/internet/udp: failed to handle UDP input > io: read/write on closed pipe
