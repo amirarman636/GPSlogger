@@ -1,67 +1,39 @@
-{
-  "log": {
-    "loglevel": "info",
+	"stats": {},
+	"log": {
+		"loglevel": "warning",
     "access": "C:\\v@ray\\access.log",
     "error": "C:\\v@ray\\error.log"
-  },
-  "inbounds": [
-    {
-      "port": 1080,  // Change this port to 1080 for SOCKS5 proxy
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
-      }
-    },
-    {
-      "port": 443,
-      "protocol": "vmess",
-      "settings": {
-        "clients": [
-          {
-            "id": "620a0f44-783d-43f5-b29c-e9dd530b3d8f",
-            "alterId": 64
-          }
-        ]
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "freedom",
-      "settings": {},
-      "tag": "direct"
-    }
-  ],
-  "routing": {
-    "domainStrategy": "IPOnDemand",
-    "rules": [
-      {
-        "type": "field",
-        "ip": ["geoip:private"],
-        "outboundTag": "blocked"
-      }
-    ]
-  },
-  "dns": {
-    "servers": [
-      "1.1.1.1",
-      "8.8.8.8",
-      "localhost"
-    ]
-  },
-  "policy": {
-    "levels": {
-      "0": {
-        "uplinkOnly": 0,
-        "downlinkOnly": 0
-      }
-    },
-    "system": {
-      "statsInboundUplink": false,
-      "statsInboundDownlink": false,
-      "statsOutboundUplink": false,
-      "statsOutboundDownlink": false
-    }
-  }
+	},
+	"inbounds": [
+		{
+			"port": 8080,
+			"protocol": "vless",
+			"settings": {
+					{
+						"email" : "nmia",
+						"flow": "",
+						"id": "UUID here"
+					},
+				],
+				"decryption": "none"
+			},
+			"streamSettings": {
+				"network": "ws",
+				"security": "none",
+				"wsSettings": {
+					"acceptProxyProtocol": false,
+					"path": "/",
+					"headers": {}
+				}
+			},
+			"tag": "cdn-notls"
+		}
+	],
+	"outbounds": [
+		{
+			"protocol": "freedom",
+			"tag": "chirm"
+		}
+	]
 }
+
