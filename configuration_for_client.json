@@ -1,54 +1,40 @@
 {
-  "log": {},
-  "inbounds": [
-    {
-      "port": 1080,
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "freedom",
-      "settings": {},
-      "tag": "direct"
-    },
-    {
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "YOUR_SERVER_IP",
-            "port": 443,
-            "users": [
-              {
-                "id": "620a0f44-783d-43f5-b29c-e9dd530b3d8f",
-                "alterId": 64
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ],
-  "routing": {
-    "domainStrategy": "IPOnDemand"
-  },
-  "policy": {
-    "levels": {
-      "0": {
-        "uplinkOnly": 0,
-        "downlinkOnly": 0
-      }
-    },
-    "system": {
-      "statsInboundUplink": true,
-      "statsInboundDownlink": true,
-      "statsOutboundUplink": true,
-      "statsOutboundDownlink": true
-    }
-  }
+	"stats": {},
+	"log": {
+		"loglevel": "warning",
+		"access": "/access.log",
+		"error": "/error.log"
+	},
+	"inbounds": [
+		{
+			"port": 8080,
+			"protocol": "vless",
+			"settings": {
+				"clients": [
+					{
+						"email": "amir",
+						"flow": "",
+						"id": "620a0f44-783d-43f5-b29c-e9dd530b3d8f"
+					}
+				],
+				"decryption": "none"
+			},
+			"streamSettings": {
+				"network": "ws",
+				"security": "none",
+				"wsSettings": {
+					"acceptProxyProtocol": false,
+					"path": "/",
+					"headers": {}
+				}
+			},
+			"tag": "cdn-notls"
+		}
+	],
+	"outbounds": [
+		{
+			"protocol": "freedom",
+			"tag": "chirm"
+		}
+	]
 }
