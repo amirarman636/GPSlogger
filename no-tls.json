@@ -10,16 +10,17 @@
 			"port": 8080,
 			"protocol": "vless",
 			"settings": {
+				"clients": [
 					{
-						"email" : "jamshid",
+						"email": "jamshid",
 						"flow": "",
 						"id": "UUID Here"
 					},
 					{
-						"email" : "nmia",
+						"email": "nmia",
 						"flow": "",
 						"id": "UUID here"
-					},
+					}
 				],
 				"decryption": "none"
 			},
@@ -42,4 +43,3 @@
 		}
 	]
 }
-
