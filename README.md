@@ -1,1 +1,14 @@
-time=15:31:16 devname="Fortigate01-R6" devid="FG201FT921900630" eventtime=1735560076057020960 tz="+0330" logid="0000000013" type="traffic" subtype="forward" level="notice" vd="root" srcip=172.23.81.110 srcport=51587 srcintf="SVI-81" srcintfrole="lan" dstip=172.20.234.194 dstport=22 dstintf="SVI-234" dstintfrole="lan" srcuuid="7782f1e0-6cc7-51ee-6b59-b617f76c7a26" dstuuid="0d1c54b4-737b-51ec-7a4c-e8ad0dc5b3f5" srccountry="Reserved" dstcountry="Reserved" sessionid=4206918649 proto=6 action="timeout" policyid=143 policytype="policy" poluuid="24ff1456-6fd5-51ee-c3e8-3fdbba079346" policyname="Access Floor1-Client Lohrasbi To Re" service="SSH" trandisp="noop" duration=189060 sentbyte=282440 rcvdbyte=483094 sentpkt=2157 rcvdpkt=1902 appcat="unscanned" sentdelta=2960 rcvddelta=2624
+### **خلاصه:**
+
+- **جلسه SSH:** بین `172.23.81.110` و `172.20.234.194` به مدت ~۵۲.۵ ساعت برقرار بوده و به دلیل تایم‌اوت خاتمه یافته است.
+- **ترافیک:** ۲۸۲,۴۴۰ بایت ارسال و ۴۸۳,۰۹۴ بایت دریافت شده است. ترافیک به‌عنوان "اسکن نشده" علامت‌گذاری شده است.
+- **سیاست:** تحت سیاست `Access Floor1-Client Lohrasbi To Re` مدیریت شده که مربوط به ترافیک LAN-to-LAN است.
+
+### **نگرانی‌ها:**
+- مدت زمان طولانی جلسه غیرعادی است.
+- ترافیک اسکن نشده است.
+
+### **اقدامات:**
+- صحت دستگاه‌ها و استفاده مورد انتظار از SSH بررسی شود.
+- لاگ‌های دستگاه مقصد برای دسترسی غیرمجاز بررسی شوند.
+- در صورت نیاز، اسکن سطح برنامه فعال شود.
