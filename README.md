@@ -1,10 +1,1 @@
-نوع حمله: حمله به تجزیه‌کننده HTTP که به‌دنبال سوءاستفاده از آسیب‌پذیری‌های تجزیه درخواست‌های HTTP است.
-مبدا جغرافیایی: حملات از کشورهای مختلفی همچون لهستان، برزیل، سنگاپور، ایالات متحده و ایتالیا آمده‌اند.
-سوءاستفاده احتمالی از CVE: حملات به‌طور خاص در تلاش برای سوءاستفاده از آسیب‌پذیری CVE-2017-16894 هستند که مربوط به دسترسی به فایل‌های .env است.
-عملکرد خوب WAF: خوشبختانه، WAF توانسته درخواست‌ها را مسدود کند که نشان‌دهنده این است که سیستم‌های دفاعی به‌خوبی عمل کرده‌اند.
-توصیه‌ها:
-
-قوانین و تنظیمات فایروال و WAF باید بررسی و به‌روزرسانی شوند.
-منابع IP که این حملات از آن‌ها آغاز شده‌اند باید به‌دقت بررسی شوند.
-پیکربندی‌های تجزیه HTTP سرور باید بازبینی و تقویت شوند.
-نظارت دقیق‌تری بر سوءاستفاده‌های احتمالی از آسیب‌پذیری‌ها (CVE) صورت گیرد و گزارش‌گیری بهبود یابد.
+time=15:31:16 devname="Fortigate01-R6" devid="FG201FT921900630" eventtime=1735560076057020960 tz="+0330" logid="0000000013" type="traffic" subtype="forward" level="notice" vd="root" srcip=172.23.81.110 srcport=51587 srcintf="SVI-81" srcintfrole="lan" dstip=172.20.234.194 dstport=22 dstintf="SVI-234" dstintfrole="lan" srcuuid="7782f1e0-6cc7-51ee-6b59-b617f76c7a26" dstuuid="0d1c54b4-737b-51ec-7a4c-e8ad0dc5b3f5" srccountry="Reserved" dstcountry="Reserved" sessionid=4206918649 proto=6 action="timeout" policyid=143 policytype="policy" poluuid="24ff1456-6fd5-51ee-c3e8-3fdbba079346" policyname="Access Floor1-Client Lohrasbi To Re" service="SSH" trandisp="noop" duration=189060 sentbyte=282440 rcvdbyte=483094 sentpkt=2157 rcvdpkt=1902 appcat="unscanned" sentdelta=2960 rcvddelta=2624
