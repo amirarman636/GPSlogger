@@ -1,3 +1,26 @@
-unit_hostname="F5-1.notary.local",management_ip_address="172.21.51.10",management_ip_address_2="N/A",http_class_name="/Common/_Kateb.ir",web_application_name="/Common/_Kateb.ir",policy_name="/Common/_Kateb.ir",policy_apply_date="2024-07-01 10:38:22",violations="Attack signature detected",support_id="10496795121640674050",request_status="blocked",response_code="0",ip_client="5.214.230.142",route_domain="0",method="GET",protocol="HTTPS",query_string="N/A",x_forwarded_for_header_value="5.214.230.142",sig_ids="200019139",sig_names="Malicious program ( WireX DDoS Android Malware )",date_time="2025-01-01 16:48:07",severity="Error",attack_type="Trojan/Backdoor/Spyware",geo_location="IR",ip_address_intelligence="N/A",username="N/A",session_id="0",src_port="51088",dest_port="443",dest_ip="46.36.99.4",sub_violations="N/A",virus_name="N/A",violation_rating="4",websocket_direction="N/A",websocket_message_type="N/A",device_id="N/A",staged_sig_ids="N/A",staged_sig_names="N/A",threat_campaign_names="N/A",staged_threat_campaign_names="N/A",blocking_exception_reason="N/A",captcha_result="not_received",microservice="N/A",tap_event_id="N/A",tap_vid="N/A",vs_name="/Common/VS-kateb.ir-P443",sig_cves="N/A",staged_sig_cves="N/A",uri="/",fragment="N/A",request="GET / HTTP/1.1\r\nHost: web.kateb.ir\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Linux; Android 10; Nokia C3 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nX-Requested-With: \r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: navigate\r\nSec-Fetch-User: ?1\r\nSec-Fetch-Dest: document\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: fa-IR,fa;q=0.9,en-US;q=0.8,en;q=0.7\r\nX-Forwarded-For: 5.214.230.142\r\n\r\n",response="Request was blocked"#015	
+در اینجا خلاصه‌ای از نکات مهم استخراج شده از گزارش‌های موجود:
 
-unit_hostname="F5-1.notary.local",management_ip_address="172.21.51.10",management_ip_address_2="N/A",http_class_name="/Common/_Kateb.ir",web_application_name="/Common/_Kateb.ir",policy_name="/Common/_Kateb.ir",policy_apply_date="2024-07-01 10:38:22",violations="Attack signature detected",support_id="10496795121640674050",request_status="blocked",response_code="0",ip_client="5.214.230.142",route_domain="0",method="GET",protocol="HTTPS",query_string="N/A",x_forwarded_for_header_value="5.214.230.142",sig_ids="200019139",sig_names="Malicious program ( WireX DDoS Android Malware )",date_time="2025-01-01 16:48:07",severity="Error",attack_type="Trojan/Backdoor/Spyware",geo_location="IR",ip_address_intelligence="N/A",username="N/A",session_id="0",src_port="51088",dest_port="443",dest_ip="46.36.99.4",sub_violations="N/A",virus_name="N/A",violation_rating="4",websocket_direction="N/A",websocket_message_type="N/A",device_id="N/A",staged_sig_ids="N/A",staged_sig_names="N/A",threat_campaign_names="N/A",staged_threat_campaign_names="N/A",blocking_exception_reason="N/A",captcha_result="not_received",microservice="N/A",tap_event_id="N/A",tap_vid="N/A",vs_name="/Common/VS-kateb.ir-P443",sig_cves="N/A",staged_sig_cves="N/A",uri="/",fragment="N/A",request="GET / HTTP/1.1\r\nHost: web.kateb.ir\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Linux; Android 10; Nokia C3 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nX-Requested-With: \r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: navigate\r\nSec-Fetch-User: ?1\r\nSec-Fetch-Dest: document\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: fa-IR,fa;q=0.9,en-US;q=0.8,en;q=0.7\r\nX-Forwarded-For: 5.214.230.142\r\n\r\n",response="Request was blocked"#015
+نام میزبان: F5-1.notary.local
+آدرس IP مدیریت: 172.21.51.10
+برنامه وب: /Common/_Kateb.ir
+سیاست: /Common/_Kateb.ir، اعمال شده در تاریخ 2024-07-01 10:38:22
+نقض: شناسایی امضای حمله (برنامه مخرب - بدافزار WireX DDoS اندروید)
+شناسه‌های امضا: 200019139
+نوع حمله: تروجان/دور زدن/نرم‌افزار جاسوسی
+شدت: خطا
+وضعیت درخواست: مسدود شده
+کد پاسخ: 0 (درخواست مسدود شد)
+آدرس IP مشتری: 5.214.230.142
+آدرس IP مقصد: 46.36.99.4 (آدرس IP مشکوک)
+تاریخ و زمان: 2025-01-01 16:48:07
+روش: GET
+پروتکل: HTTPS
+Agent کاربر: Mozilla/5.0 (Android 10; Nokia C3; Chrome)
+امتیاز نقض: 4 (تهدید بالا)
+موقعیت جغرافیایی حمله: IR (ایران)
+سرور مجازی: /Common/VS-kateb.ir-P443
+نکات کلیدی:
+درخواست از آدرس IP مشتری 5.214.230.142 پس از شناسایی امضای بدافزار WireX DDoS اندروید مسدود شد که نشان می‌دهد این احتمالاً بخشی از یک حمله تروجان/دور زدن/نرم‌افزار جاسوسی بوده است.
+حمله با امتیاز شدت بالا (4) شناسایی شده و بلافاصله مسدود شده است.
+آدرس IP مقصد (46.36.99.4) ممکن است با فعالیت‌های مخرب مرتبط باشد.
+درخواست یک درخواست GET با استفاده از HTTPS بوده و Agent کاربر نشان می‌دهد که ممکن است از دستگاه موبایل (اندروید) باشد.
